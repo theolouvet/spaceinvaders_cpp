@@ -1,10 +1,9 @@
 Pour ouvrir le projet, 
 ouvrez le terminal et éxecutez les commandes suivantes:
 
-cmake .
-pour ouvrir le projet
+pour créer le MakeFile
 
-	cmake .
+	cmake . 
 
 pour compiler
 
