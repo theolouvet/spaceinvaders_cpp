@@ -1,0 +1,10 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/media/mateo/Data/Documents CPE/Majeur/spacein
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/media/mateo/Data/Documents CPE/Majeur/spacein/source/moc_window.cxx
+/media/mateo/Data/Documents CPE/Majeur/spacein/source/window.hpp
